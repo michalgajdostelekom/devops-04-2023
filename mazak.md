@@ -1,1 +1,0 @@
-tento subor sa zmaze
