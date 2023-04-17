@@ -5,3 +5,6 @@ Toto je nas novy projekt
 * Git
 
 Test readme.
+
+
+Test updatu - noveho commitu.
