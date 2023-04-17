@@ -1,0 +1,2 @@
+tento subor bude zmazany
+
