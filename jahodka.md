@@ -12,3 +12,5 @@ The garden strawberry (or simply strawberry; Fragaria × ananassa)[1] is a widel
 
 
 skuska ssh
+
+skuska .gitignore
