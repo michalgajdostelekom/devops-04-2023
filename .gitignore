@@ -1,1 +1,6 @@
 *.exe
+*.bin
+./dir/mydir
+*temporary.*
+output
+temp
